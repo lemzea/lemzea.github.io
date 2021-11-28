@@ -1,7 +1,7 @@
 # MarkDown 문법 정리
 Github로 블로그를 이용하기 위해서는 MarkDown문법을 통해 Posting 해야했다.
 
-익숙치 않은 MarkDown으로 작성하는 MarkDown 문법 정리... 해보려고한다.
+익숙치 않은 MarkDown으로 작성하는 MarkDown 문법 정리 해보려고한다.
 ## MarkDown 개요
 ![MarkDown](https://heropy.blog/css/images/vendor_icons/markdown.png)
 MarkDown은 일반 텍스트 기반의 경량 마크업 언어이며, 읽기 쉽고 쓰기 쉬운 것이 특징이다.
