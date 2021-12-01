@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "사이드바 메뉴 설정"
+title:  "MarkDown 문법 정리"
 folder: "k8s"
 categories:
   - k8s
@@ -23,7 +23,7 @@ Github로 블로그를 이용하기 위해서는 MarkDown문법을 통해 Postin
 
 익숙치 않은 MarkDown으로 작성하는 MarkDown 문법 정리 해보려고한다.
 ## MarkDown 개요
-![MarkDown](https://heropy.blog/css/images/vendor_icons/markdown.png)
+![MarkDown](https://heropy.blog/css/images/vendor_icons/markdown.png)<br>
 MarkDown은 일반 텍스트 기반의 경량 마크업 언어이며, 읽기 쉽고 쓰기 쉬운 것이 특징이다.
 
 ## MarkDown의 장점
