@@ -1,3 +1,23 @@
+---
+layout: single
+title:  "사이드바 메뉴 설정"
+folder: "k8s"
+categories:
+  - k8s
+tags: [k8s]
+
+author_profile: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+
+date: 2021-11-24
+---
+
 # MarkDown 문법 정리
 Github로 블로그를 이용하기 위해서는 MarkDown문법을 통해 Posting 해야했다.
 

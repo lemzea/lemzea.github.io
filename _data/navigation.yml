@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,29 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  docs:
+  - title: Server
+    children:
+      - title: "k8s"
+        url: k8s/
+        category: "k8s"
+      - title: "docker"
+        url: docker/
+        category: "docker"
+      - title: "socket"
+        url: socket/
+        category: "socket"
+  - title: Programming
+    children:
+      - title: "Go"
+        url: Go/
+        category: "Go"
+      - title: "C++"
+        url: C++/
+        category: "C++"
+  - title: Etc
+    children:
+      - title: "Git"
+        url: Git/
+        category: "Git"
