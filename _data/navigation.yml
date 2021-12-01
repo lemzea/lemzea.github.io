@@ -15,7 +15,7 @@ docs:
   - title: Server
     children:
       - title: "k8s"
-        url: k8s/
+        url: categories/k8s/
         category: "k8s"
       - title: "docker"
         url: docker/
