@@ -99,6 +99,9 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+author_profile: true
+sidebar:
+  nav: "docs"
 
 # Site Author
 author:
@@ -187,7 +190,6 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 
 # Conversion
 markdown: kramdown

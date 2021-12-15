@@ -36,3 +36,6 @@ docs:
       - title: "Git"
         url: Git/
         category: "Git"
+      - title: "NFT"
+        url: NFT/
+        category: "NFT"
