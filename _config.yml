@@ -179,7 +179,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - docs # ignore Minimal Mistakes /docs
+  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - _pages
 keep_files:
@@ -282,6 +282,8 @@ defaults:
       path: ""
       type: posts
     values:
+      sidebar:
+        nav: "docs"
       layout: single
       author_profile: true
       read_time: true
