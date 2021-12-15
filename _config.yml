@@ -99,9 +99,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-author_profile: true
-sidebar:
-  nav: "docs"
 
 # Site Author
 author:
@@ -291,3 +288,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
